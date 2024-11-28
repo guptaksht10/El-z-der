@@ -1,4 +1,4 @@
-# El-z-derEl-z-der
+# helpX
 Overview
 El-z-der is a robust and versatile application designed to assist caregivers in managing stress, appointments, and health emergencies for the elderly. It provides comprehensive information on elderly care options such as long-term care, nursing, hospice, and assisted living, while focusing on the social and personal needs of seniors aging with dignity and assistance.
 
